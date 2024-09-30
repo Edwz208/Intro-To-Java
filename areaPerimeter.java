@@ -1,5 +1,5 @@
 /*
-Edwin Zeng
+Edwin Zeng - Java #1
 This program will calculate the area and perimeter of a room 
 */
 public class areaPerimeter{
