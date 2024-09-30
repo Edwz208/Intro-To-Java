@@ -1,5 +1,5 @@
 /*
-Edwin Zeng
+Edwin Zeng - Java #2
 This program will take the user input for the temperature of the day for 7 days and output the average temperature
 */
 import java.util.Scanner;
