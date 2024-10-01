@@ -1,5 +1,6 @@
-/* Edwin Zeng
-   This program will take the user input for radius in cm and output the area, diameter, and circumference of the circle
+/* 
+Edwin Zeng - Java #3
+This program will take the user input for radius in cm and output the area, diameter, and circumference of the circle
  */
 import java.util.Scanner;
 public class circleAreaCircumference {
