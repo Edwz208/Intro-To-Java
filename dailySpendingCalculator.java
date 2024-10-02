@@ -1,5 +1,5 @@
 /* 
-Edwin Zeng - #4
+Edwin Zeng - Java #4
 This program will take the input for the name of the daily purchase item,
 cost of the product, and number of days the item will be bought and output the total spending on it
  */
